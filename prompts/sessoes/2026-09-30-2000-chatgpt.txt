@@ -1,0 +1,2 @@
+[20h00] User: Gere a estrutura de um sistema de delivery de lanches.
+[20h01] Agent: Arquivos criados com sucesso usando script de automação.
